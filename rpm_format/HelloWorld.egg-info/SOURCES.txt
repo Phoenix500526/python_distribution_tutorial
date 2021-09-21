@@ -3,9 +3,11 @@ setup.cfg
 setup.py
 HelloWorld/HelloWorld.py
 HelloWorld/__init__.py
+HelloWorld/main.py
 HelloWorld.egg-info/PKG-INFO
 HelloWorld.egg-info/SOURCES.txt
 HelloWorld.egg-info/dependency_links.txt
+HelloWorld.egg-info/entry_points.txt
 HelloWorld.egg-info/requires.txt
 HelloWorld.egg-info/top_level.txt
 HelloWorld/config/config.ini
