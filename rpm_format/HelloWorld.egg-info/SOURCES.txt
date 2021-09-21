@@ -1,3 +1,4 @@
+setup.cfg
 setup.py
 HelloWorld/HelloWorld.py
 HelloWorld/__init__.py
