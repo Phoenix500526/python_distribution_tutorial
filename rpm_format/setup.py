@@ -19,6 +19,7 @@ setup(
     long_description = __doc__,
     license = 'GPL',
     url = 'https://simple.wikipedia.org/wiki/Hello_world_program',
-    platforms = 'x86-64'
+    platforms = 'x86-64',
+    include_package_data = True
     )
 
