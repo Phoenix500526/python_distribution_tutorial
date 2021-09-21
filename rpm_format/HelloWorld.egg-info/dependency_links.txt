@@ -1,1 +1,1 @@
-
+http://mirrors.163.com/pypi/simple
