@@ -1,4 +1,4 @@
-Metadata-Version: 1.0
+Metadata-Version: 1.2
 Name: HelloWorld
 Version: 0.1.0.dev20210921
 Summary: Hello World python rpm
@@ -12,3 +12,4 @@ Description:
         the screen. One way to do the Hello World program is shown below, in the C programming language.
         
 Platform: x86-64
+Requires-Python: >=3.6

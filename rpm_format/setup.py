@@ -22,6 +22,7 @@ setup(
     platforms = 'x86-64',
     include_package_data = True,
     install_requires = ['configobj==5.0.6'],
+    python_requires = '>=3.6',
     dependency_links = ['http://mirrors.163.com/pypi/simple'],
     entry_points={
         'console_scripts': [
